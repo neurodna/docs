@@ -1,4 +1,3 @@
-
 ---
 title: NeuroKernel
 section: Setup
